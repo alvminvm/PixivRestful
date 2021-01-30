@@ -1,0 +1,19 @@
+APScheduler==3.7.0
+certifi==2020.12.5
+chardet==4.0.0
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+cloudscraper==1.2.56
+Flask==1.1.2
+idna==2.10
+itsdangerous==1.1.0
+Jinja2 @ file:///home/linux1/recipes/ci/jinja2_1610990516718/work
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/fac44ebc-60de-4182-7f89-29bb8796c554/volume/markupsafe_1607027351541/work
+PixivPy==3.5.10
+pyparsing==2.4.7
+pytz==2020.5
+requests==2.25.1
+requests-toolbelt==0.9.1
+six==1.15.0
+tzlocal==2.1
+urllib3==1.26.3
+Werkzeug==1.0.1
